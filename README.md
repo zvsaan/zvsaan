@@ -8,6 +8,7 @@
 </a>
 
 <p>
+  <a href="https://fauzyy.my.id"><img src="https://img.shields.io/badge/Portfolio-fauzyy.my.id-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/fauzyihsananshory/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:sntrfauzi123@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=zvsaan&label=Views&color=1f6feb&style=for-the-badge" />
@@ -27,6 +28,8 @@ const fauzi = {
   experience: ["ERP", "Inventory", "Payroll", "Purchasing", "Monitoring", "Geolocation"],
   exploring:  ["Scalable Architecture", "DevOps", "System Integration"],
   askMeAbout: ["Next.js", "Laravel", "Flutter", "PostgreSQL", "REST API"],
+  portfolio:  "https://fauzyy.my.id",
+  workspace:  "Most of my work lives in private company repos on GitLab & GitHub",
   motto:      "Solving real business problems through technology ⚡",
 };
 ```
@@ -49,7 +52,7 @@ const fauzi = {
 <br/><br/>
 
 <b>DevOps & Tools</b><br/>
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,nginx,cloudflare,figma,vscode,postman&perline=9" />
+<img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,linux,nginx,cloudflare,figma,vscode,postman&perline=9" />
 
 </div>
 
@@ -126,6 +129,9 @@ Web-based 3D visualization to customize room layouts, materials, colors and obje
 
 <div align="center">
 
+<sub>🔒 Most of my day-to-day work is in private company repositories on <b>GitLab</b> and <b>GitHub</b>, so the stats below only show a small part of it.<br/>More projects: <a href="https://fauzyy.my.id"><b>fauzyy.my.id</b></a></sub>
+<br/><br/>
+
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zvsaan&theme=github_dark" />
 <img width="49%" src="https://streak-stats.demolab.com?user=zvsaan&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
 
@@ -153,6 +159,8 @@ Web-based 3D visualization to customize room layouts, materials, colors and obje
 ### 🤝 Let's build something impactful together
 
 Open to collaboration on **web, mobile, enterprise, and mapping** projects.
+
+<a href="https://fauzyy.my.id"><img src="https://img.shields.io/badge/Visit_my_portfolio-fauzyy.my.id-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 
 </div>
 
