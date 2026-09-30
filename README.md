@@ -132,7 +132,7 @@ Web-based 3D visualization to customize room layouts, materials, colors and obje
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zvsaan&theme=github_dark" />
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zvsaan&theme=github_dark&utcOffset=7" />
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=zvsaan&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&area_color=1f6feb&hide_border=true&custom_title=Contribution%20Activity" />
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zvsaan&theme=github_dark" />
 
 </div>
 
